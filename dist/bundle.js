@@ -1,0 +1,1 @@
+console.error("SyntaxError: /home/oleh/workout/src/app.jsx: Unexpected token (22:13) while parsing file: /home/oleh/workout/src/app.jsx");
